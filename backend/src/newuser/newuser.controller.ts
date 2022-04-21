@@ -9,10 +9,8 @@ import { User } from './newusers.entity';
 @Crud({
     model: {
         type: User,
-    },
-    routes: {
-       
-    },
+    }
+  
  
 
   
